@@ -12,4 +12,6 @@ gglot(mtcars, aes(x = wt, y=disp)) +
 
 ## Second Level Header 
 
+Now I'm making changes in RStudio just to practice commit + push 
+
 
